@@ -5,3 +5,5 @@
 - 로그인, 회원가입, 게시판 만들기
 - pythonanywhere에 배포
 http://dlwjdals0120.pythonanywhere.com/
+
+코드 파일은 master branch에 업로드되어 있습니다.
